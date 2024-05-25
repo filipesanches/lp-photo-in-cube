@@ -31,7 +31,7 @@ const BoxConhecaNossaLinha = () => {
         <Box
           maxWidth={{ xs: '100%', sm: '100%', md: '50%', lg: '50%' }}
           component="img"
-          src="https://filipesanches.github.io/landpage_loja_de_fotos/img/pola.jpg"
+          src="./img/polaroids.webp"
         />
         <Box
           component="div"

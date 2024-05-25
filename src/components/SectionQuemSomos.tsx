@@ -11,8 +11,7 @@ const SectionQuemSomos = () => {
       flexDirection={'column'}
       position={'relative'}
       sx={{
-        background:
-          ' url(https://filipesanches.github.io/landpage_loja_de_fotos/img/3-quadros-sao-paulo-preto-branco-cidade-copan.jpg) no-repeat center center / cover fixed',
+        background: ' url(./img/sp.jpg) no-repeat center center / cover fixed',
         '&:before': {
           content: '""',
           position: 'absolute',

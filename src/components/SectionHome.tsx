@@ -24,7 +24,7 @@ const SectionHome = () => {
       position={'relative'}
       sx={{
         background:
-          'url(https://filipesanches.github.io/landpage_loja_de_fotos/img/camera-fotografica-historia-origem-evolucao-e-como-funciona.jpg) center center / cover no-repeat',
+          'url(./img/maquina-fotografica-analogica.jpg) center center / cover no-repeat',
         '&:before': {
           content: '""',
           position: 'absolute',
